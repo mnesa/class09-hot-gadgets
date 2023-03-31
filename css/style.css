@@ -1,0 +1,73 @@
+.navbar-expand-lg .navbar-collapse {
+  justify-content: end;
+}
+.navbar-brand img{
+  width: 120px;
+}
+
+
+.carousel-indicators [data-bs-target] {
+  width: 35px;
+  height: 8px;
+  background-color: #ffb825;
+  border: 0;
+  border-radius: 15px;
+}
+.carousel-indicators .active{
+  width: 50px;
+}
+.navbar.bg-white{
+background-color: #ffffff!important;
+}
+
+
+.card {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.categories h3 .border-bottom{
+  border-radius: 15px;
+}
+
+/* span {
+  display: block;
+  height: 5px;
+  width: 150px;
+  margin: auto;
+  border-radius: 5px;
+  background-color: orange;
+} */
+.line {
+  display: block;
+  height: 3px;
+  width: 80px;
+  border-radius: 5px;
+  background-color: orange;
+  margin-bottom: 15px;
+}
+.categories .line{
+  width: 150px;
+  height: 5px;
+  margin: auto;
+}
+
+
+.category {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.footer{
+  background-color: #252828;
+  color: white;
+}
+.footer a{
+  color: #ffffff;
+  text-decoration: none;
+}
+.footer i{
+  padding: 5px;
+  font-size: 1.3rem;
+}
+.footer i:hover{
+  color: orange;
+}
+
+
